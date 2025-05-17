@@ -2,6 +2,11 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,visualstudiocode
 
 ### Python ###
+# .env
+API_KEY='API키'
+ACCESS_KEY='엑세스 키'
+SERVER='서버이름'
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
